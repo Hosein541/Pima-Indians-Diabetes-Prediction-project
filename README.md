@@ -3,7 +3,7 @@ The primary objective of the Pima Indian Diabetes Prediction project is to analy
 
 ### Summary and Conclusion 
 
-###Data Preprocessing Steps
+### Data Preprocessing Steps
 1. Age Categorization: Converted the continuous age variable into categorical bins and applied label encoding.
 2. Outlier Removal: Eliminated outlier values to improve data quality and model performance.
 3. Data Visualization: Conducted exploratory data analysis to gain insights into the dataset's characteristics.
